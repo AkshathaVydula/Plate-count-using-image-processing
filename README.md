@@ -1,4 +1,4 @@
-# Plate-count-using-image-processing
+# Platelet-count-using-image-processing
 '''
 *Author List :  Akshatha K V,Divya A Jamakhandi, Disha B Hegde,
 *File Name : platelet_count_gui.py
